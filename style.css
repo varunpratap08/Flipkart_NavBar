@@ -1,0 +1,67 @@
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+}
+.header
+{
+    background-color: #3e72e7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    color: white;
+    height: 60px;
+    width: 100%;
+   
+}
+.flipkarticon
+{
+    margin-left: 70px;
+    height: 40px;
+    width: 100px;
+}
+.searchbar
+{
+    height: 35px;
+    width: 400px;
+
+}
+.btn
+{
+    color: blue;
+    width: 120px;
+    height: 35px;
+    
+}
+.cart
+{
+   margin-right: 70px;
+}
+.carticon
+{
+   height: 18px;
+   width: 18px;
+}
+.navbar
+{
+    background-color: #fefefe;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.topoffers
+{
+  height: 64px;
+  width: 64px;
+}
+.navicon
+{
+    height: 64px;
+    width: 64px;
+}
+.option
+{
+    border: none;
+}
